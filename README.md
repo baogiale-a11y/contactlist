@@ -1,4 +1,6 @@
 # contactlist
+# Dự án Danh sách liên hệ - Windows Forms
 
-Lê Gia Bảo-2280600186
-Đào Nhật Huy-2280601132
+## Thông tin thành viên
+- **Lê Gia Bao** - 2280600186
+- **Đào Nhật Huy** - 2280601132
